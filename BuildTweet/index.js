@@ -1,6 +1,6 @@
 module.exports = async function (context, req) {
-    var currentdate = new Date(); 
-    var datetime = currentdate.getDate() + "/"
+    let currentdate = new Date(); 
+    let datetime = currentdate.getDate() + "/"
                     + (currentdate.getMonth()+1)  + "/" 
                     + currentdate.getFullYear() + " at "  
                     + currentdate.getHours() + ":"  
