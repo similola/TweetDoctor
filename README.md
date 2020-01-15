@@ -46,6 +46,6 @@ Steps: recurrence step(set to execute every 24 hours), an HTTP trigger that call
 
 I got to the point where my logic app was tweeting the response of the Azure function. Github actions also meant that any code I committed and pushed from my VS Code was built and deployed to my production environment a.k.a my Azure Function. CI/CD complete and project all done!
 
-![Image description]https://github.com/similola/TweetDoctor/blob/master/tweetscreenshot.PNG
+![Tweet Doctor Tweets](https://github.com/similola/TweetDoctor/blob/master/tweetscreenshot.PNG)
 
 
